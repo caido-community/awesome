@@ -22,6 +22,7 @@
 
 - [Interface](#interface)
 - [GraphQL API](#graphql-api)
+- [Other](#other)
 
 ## Interface
 
@@ -30,4 +31,9 @@
 ## GraphQL API
 
 - [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
-- [caido-python](https://github.com/thiezn/caido-python) - Python client library to interact with Caido web security auditing toolkit
+- [caido-python](https://github.com/thiezn/caido-python) - Python client library to interact with Caido
+- [GraphQL Schema](https://github.com/caido/caido/blob/main/plugin/schema.graphql) - The GraphQL schema of Caido
+
+## Other
+
+- [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
