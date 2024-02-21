@@ -21,7 +21,7 @@
 ## Contents
 
 - [Interface](#interface)
-- [GraphQL API](#graphql_api)
+- [GraphQL API](#graphql-api)
 
 ## Interface
 
