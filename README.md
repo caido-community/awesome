@@ -29,6 +29,10 @@
 - [Even Better](https://github.com/bebiksior/EvenBetter) - Improve your Caido UI with a simple script
 - [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin
 
+## Workflows
+
+- [Official Store](https://github.com/caido/workflows) - Official store of community workflows
+
 ## GraphQL API
 
 - [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
