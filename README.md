@@ -27,6 +27,7 @@
 ## Interface
 
 - [Even Better](https://github.com/bebiksior/EvenBetter) - Improve your Caido UI with a simple script
+- [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin
 
 ## GraphQL API
 
@@ -36,4 +37,5 @@
 
 ## Other
 
+- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido
 - [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
