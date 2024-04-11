@@ -32,6 +32,7 @@
 ## Workflows
 
 - [Official Store](https://github.com/caido/workflows) - Official store of community workflows
+- [Workflow SDK](https://github.com/caido/sdk-workflow) - The Workflow SDK for Caido JS Nodes
 
 ## GraphQL API
 
