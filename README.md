@@ -21,6 +21,8 @@
 ## Contents
 
 - [Interface](#interface)
+- [Workflows](#workflows)
+- [Related Tools](#related-tools)
 - [GraphQL API](#graphql-api)
 - [Other](#other)
 
@@ -33,6 +35,10 @@
 
 - [Official Store](https://github.com/caido/workflows) - Official store of community workflows
 - [Workflow SDK](https://github.com/caido/sdk-workflow) - The Workflow SDK for Caido JS Nodes
+
+## Related Tools
+
+- [Burp2Caido](https://github.com/projectmonke/burp2caido) - A tool to migrate Burpsuite HTTP history to Caido
 
 ## GraphQL API
 
