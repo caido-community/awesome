@@ -30,10 +30,12 @@
 
 - [Even Better](https://github.com/bebiksior/EvenBetter) - Improve your Caido UI with a simple script
 - [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin
+- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido
 
 ## Workflows
 
 - [Official Store](https://github.com/caido/workflows) - Official store of community workflows
+- [Starter Kit](https://github.com/caido/starterkit-workflow) - Starter Kit for your Caido workflow
 - [Workflow SDK](https://github.com/caido/sdk-workflow) - The Workflow SDK for Caido JS Nodes
 
 ## Related Tools
@@ -48,5 +50,4 @@
 
 ## Other
 
-- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido
 - [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
