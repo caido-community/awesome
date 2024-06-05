@@ -30,6 +30,7 @@
 - [EvenBetter](https://github.com/bebiksior/EvenBetter) - Make the Caido experience even better.
 - [EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) - Quicky install and keep updated Caido extensions.
 - [LiveCaidoReload](https://github.com/bebiksior/LiveCaidoReloadPlugin) -  Quickly reload your Caido plugins.
+- [Primate Pack](https://github.com/projectmonke/PrimatePack) - Suite of extensions for Caido. 
 
 ## Plugin Development
 - [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin.
