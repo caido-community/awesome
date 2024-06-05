@@ -18,36 +18,33 @@
 
 # 🔗 Awesome Caido [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
+## Table of Contents
 
-- [Interface](#interface)
+- [Plugins](#plugins)
+- [Plugin Development](#plugin-development)
 - [Workflows](#workflows)
-- [Related Tools](#related-tools)
-- [GraphQL API](#graphql-api)
-- [Other](#other)
+- [Workflow Development](#workflow-development)
+- [Migration Tools](#migration-tools)
 
-## Interface
+## Plugins
+- [EvenBetter](https://github.com/bebiksior/EvenBetter) - Make the Caido experience even better.
+- [EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) - Quicky install and keep updated Caido extensions.
+- [LiveCaidoReload](https://github.com/bebiksior/LiveCaidoReloadPlugin) -  Quickly reload your Caido plugins.
 
-- [Even Better](https://github.com/bebiksior/EvenBetter) - Improve your Caido UI with a simple script
-- [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin
-- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido
+## Plugin Development
+- [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin.
+- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido.
+- [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
+- [GraphQL Schema](https://github.com/caido/caido/blob/main/plugin/schema.graphql) - The GraphQL schema of Caido
+- [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
+- [caido-python](https://github.com/thiezn/caido-python) - Python client library to interact with Caido
 
 ## Workflows
+- [Official Store](https://github.com/caido/workflows) - Workflows shared by the community.
 
-- [Official Store](https://github.com/caido/workflows) - Official store of community workflows
+## Workflow Development
 - [Starter Kit](https://github.com/caido/starterkit-workflow) - Starter Kit for your Caido workflow
 - [Workflow SDK](https://github.com/caido/sdk-workflow) - The Workflow SDK for Caido JS Nodes
 
-## Related Tools
-
+## Migration Tools
 - [Burp2Caido](https://github.com/projectmonke/burp2caido) - A tool to migrate Burpsuite HTTP history to Caido
-
-## GraphQL API
-
-- [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
-- [caido-python](https://github.com/thiezn/caido-python) - Python client library to interact with Caido
-- [GraphQL Schema](https://github.com/caido/caido/blob/main/plugin/schema.graphql) - The GraphQL schema of Caido
-
-## Other
-
-- [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
