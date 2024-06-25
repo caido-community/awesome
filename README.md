@@ -33,7 +33,8 @@
 - [Primate Pack](https://github.com/projectmonke/PrimatePack) - Suite of extensions for Caido. 
 
 ## Plugin Development
-- [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your Caido plugin.
+- [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your fullstack Caido plugin.
+- [Starter Kit Frontend](https://github.com/caido/starterkit-plugin-frontend) - Starter Kit for your frontend Caido plugin.
 - [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido.
 - [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
 - [GraphQL Schema](https://github.com/caido/caido/blob/main/plugin/schema.graphql) - The GraphQL schema of Caido
