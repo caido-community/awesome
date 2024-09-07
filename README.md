@@ -35,7 +35,8 @@
 ## Plugin Development
 - [Starter Kit](https://github.com/caido/starterkit-plugin) - Starter Kit for your fullstack Caido plugin.
 - [Starter Kit Frontend](https://github.com/caido/starterkit-plugin-frontend) - Starter Kit for your frontend Caido plugin.
-- [Frontend SDK](https://github.com/caido/sdk-frontend) - The frontend SDK for Caido.
+- [Frontend SDK](https://github.com/caido/sdk-js/tree/main/packages/sdk-frontend) - The frontend SDK for Caido.
+- [Backend SDK](https://github.com/caido/sdk-js/tree/main/packages/sdk-backend) - The backend SDK for Caido.
 - [HTTPQL](https://github.com/caido/httpql) - JS & Rust parsers for the HTTPQL language
 - [GraphQL Schema](https://github.com/caido/caido/blob/main/plugin/schema.graphql) - The GraphQL schema of Caido
 - [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
@@ -47,7 +48,7 @@
 
 ## Workflow Development
 - [Starter Kit](https://github.com/caido/starterkit-workflow) - Starter Kit for your Caido workflow
-- [Workflow SDK](https://github.com/caido/sdk-workflow) - The Workflow SDK for Caido JS Nodes
+- [Workflow SDK](https://github.com/caido/sdk-js/tree/main/packages/sdk-workflow) - The Workflow SDK for Caido JS Nodes
 
 ## Migration Tools
 - [Burp2Caido](https://github.com/projectmonke/burp2caido) - A tool to migrate Burpsuite HTTP history to Caido
