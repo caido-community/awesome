@@ -51,3 +51,4 @@
 
 ## Migration Tools
 - [Burp2Caido](https://github.com/projectmonke/burp2caido) - A tool to migrate Burpsuite HTTP history to Caido
+- [ScopeLoaderPy](https://github.com/1ikeadragon/ScopeLoaderPy) - Convert CSV with scope into Caido compliant JSON. 
