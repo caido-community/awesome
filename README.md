@@ -42,6 +42,8 @@
 - [BigMom](https://github.com/Dyrandy/bigmom) - Golang Caido GraphQL Client Tool
 - [caido-python](https://github.com/thiezn/caido-python) - Python client library to interact with Caido
 - [caido-ruby](https://github.com/caineers/caido-ruby) - The caido-ruby library simplifies using Caido's API in Ruby applications.
+- [react-material-ui-caido-starterkit](https://github.com/bebiksior/react-material-ui-caido-starterkit) - Starter Kit for your fullstack React + Material UI Caido plugin.
+- [caido-material-ui](https://github.com/bebiksior/caido-material-ui) - Caido themed Material UI components and more.
 
 ## Workflows
 - [Official Store](https://github.com/caido/workflows) - Workflows shared by the community.
